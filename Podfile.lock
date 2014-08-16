@@ -1,0 +1,13 @@
+PODS:
+  - Masonry (0.5.3)
+  - TLIndexPathTools (0.3.4)
+
+DEPENDENCIES:
+  - Masonry
+  - TLIndexPathTools
+
+SPEC CHECKSUMS:
+  Masonry: 35368c2ca9577ca87722c12fc52c4bad9b1c1516
+  TLIndexPathTools: e9ebd25488f6e6038d6b027185ebfa8e08d6cf8f
+
+COCOAPODS: 0.33.1
